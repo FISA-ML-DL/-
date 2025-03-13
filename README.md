@@ -42,6 +42,7 @@
 | Target Encoding | 타겟 정보 반영 | 과적합 위험 | 검증 데이터 누수 가능성 |
 
 ## 클래스 불균형 대응
+<img src="./images/target.png" width="400px">
 #### 1. SMOTE 작동 메커니즘
 
 ```
