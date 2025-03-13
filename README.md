@@ -164,8 +164,8 @@ X_train, X_valid, y_train, y_valid = train_test_split(
 
 
 ### 📚 분석 및 시각화
-<img src="./images/heatmap.png" width="400px">
-<img src="./images/roc_curve.png" width="400px">
+<img src="./images/heatmap.png" width="600px">
+<img src="./images/roc_curve.png" width="600px">
 
 
 ### ⚒️ Libraries & Tools
