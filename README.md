@@ -11,7 +11,7 @@
 - 19개 독립변수 (수치형 15개, 범주형 4개)
 - 채무 불이행 여부: 0(정상 상환), 1(채무 불이행)
 - 클래스 불균형: 1:1.8 → 소수 클래스(불이행) 예측 정확도가 핵심
-<img src="https://github.com/user-attachments/assets/29e3b239-d277-43f5-bf1a-2b3623f2d965" width="400px">
+<img src="https://github.com/user-attachments/assets/29e3b239-d277-43f5-bf1a-2b3623f2d965" width="800px">
 
 ## 데이터 전처리 전략
 #### 1. 데이터 정제  
