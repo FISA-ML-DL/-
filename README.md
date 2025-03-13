@@ -20,7 +20,7 @@
   - 개인 신용 데이터를 포함하는 테스트 데이터셋 (2,062개 샘플)
  
 ## 📚 분석 및 시각화
-![Debt Default Probability](./images/debt_default_probability.png)
+![roc_curve](./images/roc_curve.png)
     
 ### ⚒️ Libraries & Tools
 ![pandas](https://img.shields.io/badge/pandas-150458.svg?&style=for-the-badge&logo=pandas&logoColor=white)
