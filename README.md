@@ -185,9 +185,9 @@ test = test[X_train.columns]  # 훈련 피처 순서 강제 맞춤
 
 
 ### 📚 분석 및 시각화
-<p align="center">
-  <img src="./images/roc_curve.png" width="45%">
-  <img src="./images/heatmap.png" width="45%">
+<p align="left">
+  <img src="./images/roc_curve.png">
+  <img src="./images/heatmap.png">
 </p>
 
 ### ⚒️ Libraries & Tools
