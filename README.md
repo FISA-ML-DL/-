@@ -15,9 +15,13 @@
 ## 📚 분석 및 시각화
 
 ### 📊 사용 데이터
-데이콘에서 제공하는 train, test.csv
-
-### ⚒️ 라이브러리 % Tools
+- train.csv
+  - 개인 신용 데이터를 포함하는 훈련 데이터셋 (10,000개 샘플)
+  - 채무 불이행 여부: 0(정상 상환), 1(채무 불이행)
+- test.csv
+  - 개인 신용 데이터를 포함하는 테스트 데이터셋 (2,062개 샘플)
+    
+### ⚒️ Libraries & Tools
 ![pandas](https://img.shields.io/badge/pandas-150458.svg?&style=for-the-badge&logo=pandas&logoColor=white)
 ![numpy](https://img.shields.io/badge/numpy-013243.svg?&style=for-the-badge&logo=numpy&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikitlearn-F7931E.svg?&style=for-the-badge&logo=scikitlearn&logoColor=white)
