@@ -185,8 +185,10 @@ test = test[X_train.columns]  # 훈련 피처 순서 강제 맞춤
 
 
 ### 📚 분석 및 시각화
-![roc_curve](./images/roc_curve.png)
-![heatmap](./images/heatmap.png)
+<p align="center">
+  <img src="./images/roc_curve.png" width="45%">
+  <img src="./images/heatmap.png" width="45%">
+</p>
 
 ### ⚒️ Libraries & Tools
 ![pandas](https://img.shields.io/badge/pandas-150458.svg?&style=for-the-badge&logo=pandas&logoColor=white)
