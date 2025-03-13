@@ -12,14 +12,14 @@
 1. 채무 불이행 가능성 예측
 2. 정확도(ROC-AUC) 향상
 
-## 📚 분석 및 시각화
-
 ### 📊 사용 데이터
 - train.csv
   - 개인 신용 데이터를 포함하는 훈련 데이터셋 (10,000개 샘플)
   - 채무 불이행 여부: 0(정상 상환), 1(채무 불이행)
 - test.csv
   - 개인 신용 데이터를 포함하는 테스트 데이터셋 (2,062개 샘플)
+ 
+## 📚 분석 및 시각화
     
 ### ⚒️ Libraries & Tools
 ![pandas](https://img.shields.io/badge/pandas-150458.svg?&style=for-the-badge&logo=pandas&logoColor=white)
