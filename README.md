@@ -43,6 +43,7 @@
 
 ## 클래스 불균형 대응
 <img src="./images/target.png" width="400px">
+
 #### 1. SMOTE 작동 메커니즘
 
 ```
