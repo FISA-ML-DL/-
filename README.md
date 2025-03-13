@@ -179,6 +179,7 @@ X_train, X_valid, y_train, y_valid = train_test_split(
 ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00.svg?&style=for-the-badge&logo=googlecolab&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=white)
 
+---
 
 ### 🔧 트러블슈팅 회고
 본 프로젝트는 데이콘 채무 불이행 예측 해커톤에 참여하기 위해 진행된 모델 개발 과정에서 여러 가지 문제와 어려움을 겪었습니다. 아래는 주요 이슈와 그에 대한 해결 시도, 그리고 추가 개선 사항을 정리한 내용입니다.
