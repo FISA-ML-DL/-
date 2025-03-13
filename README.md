@@ -149,7 +149,6 @@ Copy
 test = test[X_train.columns]  # 훈련 피처 순서 강제 맞춤
 ```
 
----
 
 ## 실행 결과
 
@@ -157,7 +156,6 @@ test = test[X_train.columns]  # 훈련 피처 순서 강제 맞춤
 - **제출 파일 형식**: `UID`와 `Default Probability` 컬럼 보존
 - **예측값 분포**: 양극화 방지를 위한 확률 보정 미적용
 
----
 
 ## 개선 가능 방향
 
@@ -180,7 +178,6 @@ test = test[X_train.columns]  # 훈련 피처 순서 강제 맞춤
 - **확률 보정**: Platt Scaling 적용
 - **다단계 앙상블**: 1단계에서 Hard Sample 선별 후 2단계 집중 학습
 
----
 
 ## 결론
 
@@ -189,7 +186,8 @@ test = test[X_train.columns]  # 훈련 피처 순서 강제 맞춤
 
 ### 📚 분석 및 시각화
 ![roc_curve](./images/roc_curve.png)
-    
+![heatmap](./images/heatmap.png)
+
 ### ⚒️ Libraries & Tools
 ![pandas](https://img.shields.io/badge/pandas-150458.svg?&style=for-the-badge&logo=pandas&logoColor=white)
 ![numpy](https://img.shields.io/badge/numpy-013243.svg?&style=for-the-badge&logo=numpy&logoColor=white)
